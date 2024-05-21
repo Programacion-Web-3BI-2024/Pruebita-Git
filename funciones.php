@@ -1,5 +1,6 @@
 <?php 
 
+
 	function Saludar($aQuienSaludar){
 		while($aQuienSaludar != "")
 			$status = true;
