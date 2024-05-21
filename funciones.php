@@ -1,2 +1,5 @@
 <?php 
-	echo "Hola";
+
+	function Saludar(){
+		return "Hola";
+	}
